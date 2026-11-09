@@ -1,0 +1,6 @@
+# Generated lab credentials. Never commit these.
+.lab-secrets/
+
+# Editor and OS noise
+.DS_Store
+.vscode/
