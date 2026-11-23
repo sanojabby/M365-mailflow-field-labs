@@ -1,3 +1,5 @@
+![Microsoft 365 & Exchange Online Troubleshooting Labs](./assets/banner.svg)
+
 # Microsoft 365 & Exchange Online Troubleshooting Labs
 
 Ten cases, written the way I work them: what the user reported, what I found underneath, the admin center path I walked, the PowerShell I ran, and the evidence that the fix held. Each one is self-contained, so you can jump straight to the case that matches your problem.
