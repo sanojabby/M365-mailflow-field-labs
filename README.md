@@ -47,7 +47,7 @@ Two colleagues each set their phone to forward calls to the other, and both phon
 
 **Where it shows up in Microsoft 365**
 
-*No capture yet — the forwarding trace goes in with the case.*
+![Exchange admin center message trace showing four rows for two messages, each delivered to the addressee and once through the forward](./labs/TS-002-forwarding-pair-duplicate-copies/screenshots/TS-002-02-trace-forwarded-twice.png)
 
 Four rows for two messages: the addressee and the forward, both delivered, with no repeat cycle and no bounce.
 
@@ -140,7 +140,7 @@ A company keeps every deleted piece of paper in a locked room for the lawyers, a
 
 **Where it shows up in Microsoft 365**
 
-*No capture yet — the hold panel goes in with the case.*
+![Exchange admin center litigation hold panel showing hold On, the creation date and the administrator who started it](./labs/TS-008-recoverable-items-litigation-hold/screenshots/TS-008-02-quota.png)
 
 👉 **[View Step-by-Step Fix, PowerShell Commands & Lesson Learned](./labs/TS-008-recoverable-items-litigation-hold/README.md)**
 
@@ -164,7 +164,7 @@ A security guard follows a list of rules from the top down. Rule 1 says "let VIP
 
 **Where it shows up in Microsoft 365**
 
-*No capture yet — the rule list goes in with the case.*
+![Exchange admin center mail flow rules list showing priorities, with the disclaimer rule below a stop-processing rule](./labs/TS-010-disclaimer-rule-conflict/screenshots/TS-010-01-rule-list-priorities.png)
 
 👉 **[View Step-by-Step Fix, PowerShell Commands & Lesson Learned](./labs/TS-010-disclaimer-rule-conflict/README.md)**
 
